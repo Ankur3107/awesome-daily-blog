@@ -19,3 +19,12 @@
 7.  https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73
 8.  https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
 9.  https://towardsdatascience.com/bert-to-the-rescue-17671379687f
+
+### Date:11/9/2019
+
+1.  http://jalammar.github.io/illustrated-word2vec/
+2.  http://ruder.io/word-embeddings-1/index.html
+3.  http://ruder.io/word-embeddings-softmax/
+4.  https://github.com/RaRe-Technologies/gensim/blob/develop/gensim/models/word2vec.py
+5.  https://rutumulkar.com/blog/2015/word2vec/
+6.  http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/
