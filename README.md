@@ -28,3 +28,9 @@
 4.  https://github.com/RaRe-Technologies/gensim/blob/develop/gensim/models/word2vec.py
 5.  https://rutumulkar.com/blog/2015/word2vec/
 6.  http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/
+
+### Date: 12/8/2019
+
+1.  https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a
+2.  https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
+3.  https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a
