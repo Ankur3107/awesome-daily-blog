@@ -34,3 +34,9 @@
 1.  https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a
 2.  https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
 3.  https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a
+
+### Date: 13/8/2019
+
+1.  http://ruder.io/nlp-imagenet/
+2.  https://medium.com/@ranko.mosic/googles-bert-nlp-5b2bb1236d78
+3.  https://github.com/kwonmha/bert-vocab-builder
