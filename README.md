@@ -40,3 +40,7 @@
 1.  http://ruder.io/nlp-imagenet/
 2.  https://medium.com/@ranko.mosic/googles-bert-nlp-5b2bb1236d78
 3.  https://github.com/kwonmha/bert-vocab-builder
+
+### Date: 14/8/2019
+
+1.  https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-1-87392be2129e
