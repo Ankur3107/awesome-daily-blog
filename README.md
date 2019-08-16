@@ -44,3 +44,12 @@
 ### Date: 14/8/2019
 
 1.  https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-1-87392be2129e
+
+
+### Date: 16/8/2019
+
+1.  https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
+2.  https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/
+3.  https://arxiv.org/pdf/1801.07736.pdf
+4.  https://arxiv.org/pdf/1905.01976.pdf
+5.  https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-1-2b886c8cab10
