@@ -53,3 +53,10 @@
 3.  https://arxiv.org/pdf/1801.07736.pdf
 4.  https://arxiv.org/pdf/1905.01976.pdf
 5.  https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-1-2b886c8cab10
+
+
+### Date:18/8/2019
+
+1.  https://towardsdatascience.com/tensorflow-control-flow-tf-cond-903e020e722a
+2.  https://towardsdatascience.com/learning-attention-mechanism-from-scratch-f08706aaf6b6
+3.  https://github.com/Garima13a/Attention-Mechanism-Basics/blob/master/Attention_Basics_Solution.ipynb
