@@ -60,3 +60,10 @@
 1.  https://towardsdatascience.com/tensorflow-control-flow-tf-cond-903e020e722a
 2.  https://towardsdatascience.com/learning-attention-mechanism-from-scratch-f08706aaf6b6
 3.  https://github.com/Garima13a/Attention-Mechanism-Basics/blob/master/Attention_Basics_Solution.ipynb
+
+
+### Date: 19/8/2109
+
+1.  https://arxiv.org/pdf/1904.00962.pdf
+2.  https://github.com/titu1994/keras-LAMB-Optimizer
+3.  https://arxiv.org/pdf/1902.09314.pdf
