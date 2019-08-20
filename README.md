@@ -62,8 +62,16 @@
 3.  https://github.com/Garima13a/Attention-Mechanism-Basics/blob/master/Attention_Basics_Solution.ipynb
 
 
-### Date: 19/8/2109
+### Date: 19/8/2019
 
 1.  https://arxiv.org/pdf/1904.00962.pdf
 2.  https://github.com/titu1994/keras-LAMB-Optimizer
 3.  https://arxiv.org/pdf/1902.09314.pdf
+
+### Date: 20/8/2019
+
+1.  http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
+2.  https://github.com/minqi/hnatt
+3.  https://medium.com/intuitive-deep-learning/autoencoders-neural-networks-for-unsupervised-learning-83af5f092f0b
+4.  https://towardsdatascience.com/understanding-adam-how-loss-functions-are-minimized-3a75d36ebdfc
+5.  https://towardsdatascience.com/understanding-partial-auto-correlation-fa39271146ac
