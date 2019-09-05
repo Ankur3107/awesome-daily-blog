@@ -75,3 +75,8 @@
 3.  https://medium.com/intuitive-deep-learning/autoencoders-neural-networks-for-unsupervised-learning-83af5f092f0b
 4.  https://towardsdatascience.com/understanding-adam-how-loss-functions-are-minimized-3a75d36ebdfc
 5.  https://towardsdatascience.com/understanding-partial-auto-correlation-fa39271146ac
+
+### Date:5/9/2019 : Custom Keras Layer 
+
+1.  https://keras.io/layers/writing-your-own-keras-layers/
+2.  https://www.saama.com/blog/deep-learning-diaries-building-custom-layers-in-keras/
