@@ -80,3 +80,8 @@
 
 1.  https://keras.io/layers/writing-your-own-keras-layers/
 2.  https://www.saama.com/blog/deep-learning-diaries-building-custom-layers-in-keras/
+
+### Date:6/9/2019 : Text Similarity
+
+1.  https://medium.com/@adriensieg/text-similarities-da019229c894
+2.  https://github.com/adsieg/text_similarity
