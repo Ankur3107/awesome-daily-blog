@@ -85,3 +85,7 @@
 
 1.  https://medium.com/@adriensieg/text-similarities-da019229c894
 2.  https://github.com/adsieg/text_similarity
+
+### Date:28/11/2021:  k-prototype as Clustering Algorithm 
+ 1. https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb
+ 2. https://github.com/nicodv/kmodes
